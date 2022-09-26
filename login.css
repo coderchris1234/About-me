@@ -1,0 +1,23 @@
+div{
+    text-align: center;
+    color: blue;
+    font-size: larger;
+    font-weight: bolder;
+  
+
+}
+button{
+    cursor: pointer;
+  color: blue;
+}
+
+body{
+    background-color: whitesmoke;
+  margin: 0px;
+  padding: 0px;
+}
+h1{
+  background-color: lightblue;
+  margin: 0px;
+  padding: 0px;
+}
